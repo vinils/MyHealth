@@ -1,0 +1,3 @@
+[submodule "CSharp.Saude.FitbitTask"]
+	path = CSharp.Saude.FitbitTask
+	url = https://github.com/vinils/CSharp.Saude.FitbitTask.git
