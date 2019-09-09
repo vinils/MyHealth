@@ -1,0 +1,9 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "Id": "47B974F0-00CC-415B-AF2A-93F010491212",
+    "Name": "Saude",
+    "Initials": null,
+    "ParentId": null,
+    "MeasureUnit": null,
+    "Childs": []
+}
