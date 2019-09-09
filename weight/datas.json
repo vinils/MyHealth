@@ -1,0 +1,44 @@
+{
+		"Datas" : [{
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2011-10-10T00:00:00-03:00",
+			"DecimalValue": 74.3
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2012-02-15T00:00:00-02:00",
+			"DecimalValue": 71.2
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2012-07-10T00:00:00-03:00",
+			"DecimalValue": 71.9
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2016-08-14T17:46:00-03:00",
+			"DecimalValue": 98.05
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2016-10-05T00:00:00-03:00",
+			"DecimalValue": 97.6
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2017-05-25T00:00:00-03:00",
+			"DecimalValue": 95.5
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2017-08-14T00:00:00-03:00",
+			"DecimalValue": 96.8
+		}, {
+			"@odata.type": "#Data.Models.DataDecimal",
+			"GroupId": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+			"CollectionDate": "2017-12-04T00:00:00-02:00",
+			"DecimalValue": 97.1
+		}
+	]
+}

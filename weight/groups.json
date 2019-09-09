@@ -1,0 +1,9 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "Id": "bfdf8f5e-c514-416d-b6b0-35b196f5ca96",
+    "Name": "Peso",
+    "Initials": null,
+    "ParentId": "47b974f0-00cc-415b-af2a-93f010491212",
+    "MeasureUnit": null,
+    "Childs": []
+}
