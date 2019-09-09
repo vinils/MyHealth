@@ -1,0 +1,1084 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "Id": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+    "Name": "Exames",
+    "Initials": null,
+    "ParentId": "47b974f0-00cc-415b-af2a-93f010491212",
+    "MeasureUnit": null,
+    "Childs": [
+        {
+            "Id": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "Name": "TGO",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "U/L",
+            "Childs": []
+        },
+        {
+            "Id": "82582960-4073-4b58-af3e-15ff76c8a972",
+            "Name": "Hormônio Adrenocorticotrófico",
+            "Initials": "ACTH",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "pg/mL",
+            "Childs": []
+        },
+        {
+            "Id": "854629f7-bbfe-4d80-b5b4-189970203c75",
+            "Name": "HIV 1+2",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": []
+        },
+        {
+            "Id": "5ea0ec36-16b9-48aa-985f-1a5243263473",
+            "Name": "Gama Glutamiltransferase",
+            "Initials": "GAMA-GT",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "U/L",
+            "Childs": []
+        },
+        {
+            "Id": "f9d24149-da18-46dd-bd2f-206bc3709899",
+            "Name": "Hormônio Luteinizante",
+            "Initials": "LH",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mUI/mL",
+            "Childs": []
+        },
+        {
+            "Id": "9531dd00-5511-420a-8e70-208fd714a60e",
+            "Name": "Cortisol",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "ug/dL",
+            "Childs": []
+        },
+        {
+            "Id": "676d8807-fbc7-f6df-6cd6-2bbf0946af08",
+            "Name": "Triiodotironina",
+            "Initials": "T3",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "2137805a-850c-41c6-93bb-1adbd2fd0941",
+                    "Name": "Total",
+                    "Initials": null,
+                    "ParentId": "676d8807-fbc7-f6df-6cd6-2bbf0946af08",
+                    "MeasureUnit": "ng/mL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "9db1bd58-caae-431c-9a74-2dd477b360bb",
+            "Name": "Prolactina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "ng/mL",
+            "Childs": []
+        },
+        {
+            "Id": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "Name": "TGP",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "U/L",
+            "Childs": []
+        },
+        {
+            "Id": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+            "Name": "Eletroforese de Proteínas",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "7a6aa588-2902-4b70-835e-045551209f0b",
+                    "Name": "Alfa 2 Globulina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "2541573b-b5ea-4c6d-a66e-3140e80fa266",
+                    "Name": "Protreinas Totais",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "53d1ea73-4a5b-485f-a131-633b48d85d37",
+                    "Name": "Alfa 1 Globulina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "87545a18-9e16-403f-99b5-89750be868f8",
+                    "Name": "Albumina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "050f83a9-1273-4235-a54e-c3a723667678",
+                    "Name": "Beta 1 Globulina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "3c45c2fa-abba-4da8-b1ee-f4184369a9e7",
+                    "Name": "Gama Globulina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "160f3b6e-e755-4dcd-9693-fbdfa0d78bca",
+                    "Name": "Beta 2 Globulina",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": "g/dL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "eb493c1c-8805-498e-bfdc-46948d734ba9",
+            "Name": "Urina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                    "Name": "Urina 24 horas",
+                    "Initials": null,
+                    "ParentId": "eb493c1c-8805-498e-bfdc-46948d734ba9",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "963d00dc-36ca-4fe1-ad9b-08c5ef8e4740",
+                            "Name": "Creatinina Urinária",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mg/dL",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "6ab148c4-68ec-4ff5-bc57-5b366b24b409",
+                            "Name": "Excreção Urinária",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mg/Kg/dia",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "b647f8cf-7e20-4e6b-a636-81249f461c4c",
+                            "Name": "Proteinúria",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mg/dia",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "b149446a-5a95-4362-b7c9-af3e6f4be7a3",
+                            "Name": "DCE",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mL/min/1,73 m²",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "63a13a0c-a8de-4e44-8ab6-c5a02c1fa9f6",
+                            "Name": "Creatinina Sérica",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mg/dL",
+                            "Childs": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "2fdc6134-ee86-54bf-81d1-4caa37a5b2bf",
+            "Name": "Hemograma Completo",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                    "Name": "Eritograma",
+                    "Initials": null,
+                    "ParentId": "2fdc6134-ee86-54bf-81d1-4caa37a5b2bf",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+                            "Name": "Hemoglobina",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": "g/dL",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "6af24d64-45ff-4aa1-81b6-34a027493925",
+                            "Name": "Eritrócitos",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": "milhões/mm³",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "60f2c989-f977-4bc0-a14c-4718343f6a8e",
+                            "Name": "MPV",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": "fL",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+                            "Name": "Plaquetas",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": "milhões/mm³",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "98b34f14-6daa-3ee4-4eb1-e6d4f691960a",
+                            "Name": "Hematócrito",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": null,
+                            "Childs": [
+                                {
+                                    "Id": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+                                    "Name": "H.C.M.",
+                                    "Initials": null,
+                                    "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960a",
+                                    "MeasureUnit": "pg",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+                                    "Name": "C.H.C.M.",
+                                    "Initials": null,
+                                    "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960a",
+                                    "MeasureUnit": "g/dL",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "198b50de-16f8-49cf-961e-c60d6bea8455",
+                                    "Name": "V.C.M.",
+                                    "Initials": null,
+                                    "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960a",
+                                    "MeasureUnit": "fL",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+                                    "Name": "R.D.W",
+                                    "Initials": null,
+                                    "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960a",
+                                    "MeasureUnit": "%",
+                                    "Childs": []
+                                }
+                            ]
+                        },
+                        {
+                            "Id": "58f93df0-e274-44d5-9f81-fd8b86efea5f",
+                            "Name": "Hemácias",
+                            "Initials": null,
+                            "ParentId": "3ec3b8e9-18a5-41cd-17e6-398effe87c19",
+                            "MeasureUnit": "milhões/mm³",
+                            "Childs": []
+                        }
+                    ]
+                },
+                {
+                    "Id": "605b59fb-73ad-4445-826e-6c801e0e1cff",
+                    "Name": "Hemossedimentação",
+                    "Initials": "V.S.G.",
+                    "ParentId": "2fdc6134-ee86-54bf-81d1-4caa37a5b2bf",
+                    "MeasureUnit": "mm/h",
+                    "Childs": []
+                },
+                {
+                    "Id": "473e07d8-f5ab-85cb-54eb-e6d38dac425d",
+                    "Name": "Leucograma",
+                    "Initials": null,
+                    "ParentId": "2fdc6134-ee86-54bf-81d1-4caa37a5b2bf",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                            "Name": "Leucócitos",
+                            "Initials": null,
+                            "ParentId": "473e07d8-f5ab-85cb-54eb-e6d38dac425d",
+                            "MeasureUnit": null,
+                            "Childs": [
+                                {
+                                    "Id": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                    "Name": "Neutrófilos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": null,
+                                    "Childs": [
+                                        {
+                                            "Id": "bd113da4-8223-4ff3-b830-17939a7403e5",
+                                            "Name": "Bastonetes",
+                                            "Initials": null,
+                                            "ParentId": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                            "MeasureUnit": "milhões/mm³",
+                                            "Childs": []
+                                        },
+                                        {
+                                            "Id": "a3d50929-7348-46d9-b64e-488cd6ce4eb4",
+                                            "Name": "Mielócitos",
+                                            "Initials": null,
+                                            "ParentId": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                            "MeasureUnit": "milhões/mm³",
+                                            "Childs": []
+                                        },
+                                        {
+                                            "Id": "f904ab8e-64b2-47ca-929c-66b84ea9024b",
+                                            "Name": "Promielócitos",
+                                            "Initials": null,
+                                            "ParentId": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                            "MeasureUnit": "milhões/mm³",
+                                            "Childs": []
+                                        },
+                                        {
+                                            "Id": "bf9ef7da-d7dc-48b7-b65d-6958947d8327",
+                                            "Name": "Metamielócitos",
+                                            "Initials": null,
+                                            "ParentId": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                            "MeasureUnit": "milhões/mm³",
+                                            "Childs": []
+                                        },
+                                        {
+                                            "Id": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+                                            "Name": "Segmentados",
+                                            "Initials": null,
+                                            "ParentId": "dfdeabf1-8617-9564-9ae2-15fd00d759b5",
+                                            "MeasureUnit": "milhões/mm³",
+                                            "Childs": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "68ed3e7a-3884-47b7-ba5b-29b895ccb99a",
+                                    "Name": "Linfócitos Atípicos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": "milhões/mm³",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+                                    "Name": "Linfócitos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": "milhões/mm³",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+                                    "Name": "Eosinófilos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": "milhões/mm³",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "fd8a3c57-1c37-47dc-881b-6c53a727df98",
+                                    "Name": "Basófilos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": "milhões/mm³",
+                                    "Childs": []
+                                },
+                                {
+                                    "Id": "42d689d0-f48a-490b-9e52-bcc361fef109",
+                                    "Name": "Monócitos",
+                                    "Initials": null,
+                                    "ParentId": "96b039bf-f76d-8e24-3e3d-924d232b354b",
+                                    "MeasureUnit": "milhões/mm³",
+                                    "Childs": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "b51f1568-3956-4bf0-93d2-4e2635ca6f0f",
+            "Name": "Cálcio",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "3c9d5d18-9360-4515-ad0b-4e52edc3c452",
+            "Name": "Potássio",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mEq/L",
+            "Childs": []
+        },
+        {
+            "Id": "f8f21e86-8c0f-26bd-621a-56193d365d99",
+            "Name": "Testosterona",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "0f099b67-dcc0-47c7-92fa-15888233c52d",
+                    "Name": "Biodisponível",
+                    "Initials": null,
+                    "ParentId": "f8f21e86-8c0f-26bd-621a-56193d365d99",
+                    "MeasureUnit": "ng/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "f7c99fb1-f225-416f-90bf-b039fd295477",
+                    "Name": "Total",
+                    "Initials": null,
+                    "ParentId": "f8f21e86-8c0f-26bd-621a-56193d365d99",
+                    "MeasureUnit": "ng/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "01d32589-29cb-4d73-9d89-cfbcb28bc04c",
+                    "Name": "Livre",
+                    "Initials": null,
+                    "ParentId": "f8f21e86-8c0f-26bd-621a-56193d365d99",
+                    "MeasureUnit": "ng/dL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "e57346cf-4893-4951-a9fb-601550aa0610",
+            "Name": "Fosfatase Alcalina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "U/L",
+            "Childs": []
+        },
+        {
+            "Id": "e957764e-c79f-40ae-8fb3-62ffa2cc1d81",
+            "Name": "Magnésio",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "4a585360-ac4d-4f7b-aea9-67dce6cf4a84",
+            "Name": "Progesterona",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "ng/mL",
+            "Childs": []
+        },
+        {
+            "Id": "616c15ca-e3df-4f43-938c-688a1006ee30",
+            "Name": "Acido Fólico",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "ng/mL",
+            "Childs": []
+        },
+        {
+            "Id": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "Name": "Creatinina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "3f17328b-90a2-4b59-9d4b-79a17b13246c",
+            "Name": "Albumina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "g/dL",
+            "Childs": []
+        },
+        {
+            "Id": "963d4160-a057-4f69-9fdc-7f4d9866bd9c",
+            "Name": "Bilirrubinas",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "0eef3b37-95d8-440a-abdf-2488e4bfcfc4",
+                    "Name": "Total",
+                    "Initials": null,
+                    "ParentId": "963d4160-a057-4f69-9fdc-7f4d9866bd9c",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "0ae0a1ff-cf13-4280-8d9e-2d7c958a1cc1",
+                    "Name": "Direta",
+                    "Initials": null,
+                    "ParentId": "963d4160-a057-4f69-9fdc-7f4d9866bd9c",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "028689ae-718e-4753-be9b-6bb7100457c1",
+                    "Name": "Indireta",
+                    "Initials": null,
+                    "ParentId": "963d4160-a057-4f69-9fdc-7f4d9866bd9c",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "b83312fc-e681-d4fb-7882-81588a0b802b",
+            "Name": "Urina Tipo I",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                    "Name": "Exame Químico",
+                    "Initials": null,
+                    "ParentId": "b83312fc-e681-d4fb-7882-81588a0b802b",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "4ceea2b1-10cd-4d58-9ba3-008191911d4a",
+                            "Name": "Corpos Centonicos",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "5fc51979-a009-4fe9-afc9-0a655e9dfb08",
+                            "Name": "Nitrito",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "425159b6-8760-4e1f-8f1d-1103cd16d4a9",
+                            "Name": "Urobilinogênio",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "00def6f4-61c4-43ba-a848-7625c96b4da9",
+                            "Name": "Glicose",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "979168c0-5b21-428c-ae60-7652e39e0b07",
+                            "Name": "Pigmentos Biliares",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "5c935159-e216-454b-9294-889f8db45ae4",
+                            "Name": "Proteínas",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "eff6857e-d1e0-4e6d-8ca0-f97db6206862",
+                            "Name": "Hemoglobina",
+                            "Initials": null,
+                            "ParentId": "dcc0c6bd-f671-77e3-95f5-34e6fcf58cab",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        }
+                    ]
+                },
+                {
+                    "Id": "b3182b57-7b14-4e2a-9e13-7817aaa0a695",
+                    "Name": "Microalbuminúria",
+                    "Initials": null,
+                    "ParentId": "b83312fc-e681-d4fb-7882-81588a0b802b",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "83b5d249-90e7-4cce-8554-6e0400c7096a",
+                            "Name": "24 horas",
+                            "Initials": null,
+                            "ParentId": "b3182b57-7b14-4e2a-9e13-7817aaa0a695",
+                            "MeasureUnit": "mg/dia",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "3a9237d1-a895-431d-b5ac-b2fd6b86014c",
+                            "Name": "Amostra",
+                            "Initials": null,
+                            "ParentId": "b3182b57-7b14-4e2a-9e13-7817aaa0a695",
+                            "MeasureUnit": "mg/g",
+                            "Childs": []
+                        }
+                    ]
+                },
+                {
+                    "Id": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                    "Name": "Exame do Sedimento",
+                    "Initials": null,
+                    "ParentId": "b83312fc-e681-d4fb-7882-81588a0b802b",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "f592cd25-ad31-428e-b3e0-11e0b34ffba8",
+                            "Name": "Leveduras",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "682f6adb-caeb-4bb6-b33d-38f0dd2b2916",
+                            "Name": "Leucócitos",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": "mL",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "0c3c5a1f-9661-4c3b-a106-437564d444d4",
+                            "Name": "Cilindros",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "8843bd78-486a-4657-80a4-51d819af1c0b",
+                            "Name": "Células Epiteliais",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "121cf667-1763-4eea-848e-71033ca68829",
+                            "Name": "Cristais",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "88589e6b-8930-4fb3-af0c-87c0bba78754",
+                            "Name": "Bacterias",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "8dd6bef8-d019-4981-8608-8afff0e1f294",
+                            "Name": "Eritrócitos",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": "mL",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "c46fe354-3108-4921-87c4-9b8114d3887b",
+                            "Name": "Filamentos de Muco",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "ca322692-e750-47a6-b86d-ec5151cb1d10",
+                            "Name": "Trichomonas",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "f5db3f38-95a1-429f-bedc-f338c6fb2e79",
+                            "Name": "Leucócitos Degenerados",
+                            "Initials": null,
+                            "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        }
+                    ]
+                },
+                {
+                    "Id": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                    "Name": "Exame Físico",
+                    "Initials": null,
+                    "ParentId": "b83312fc-e681-d4fb-7882-81588a0b802b",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "03806a5f-9873-48ac-b34d-2daf29896783",
+                            "Name": "pH",
+                            "Initials": null,
+                            "ParentId": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "17f873f5-1a1f-4929-b00b-474792a8847e",
+                            "Name": "Aspecto",
+                            "Initials": null,
+                            "ParentId": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "c0604d31-e4f4-4b21-bfab-4bd14d9a29c9",
+                            "Name": "Cor",
+                            "Initials": null,
+                            "ParentId": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "c8e4e5b1-320b-43db-9460-4dbb741eaa73",
+                            "Name": "Densidade",
+                            "Initials": null,
+                            "ParentId": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        },
+                        {
+                            "Id": "138951b0-3a13-4686-9d27-e3cc027ba77a",
+                            "Name": "Volume",
+                            "Initials": null,
+                            "ParentId": "4358c561-f604-288b-d8e0-a7dd6b9df711",
+                            "MeasureUnit": "mL",
+                            "Childs": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "ef5d7f1d-15c9-48bd-b5e4-831b814d2cc2",
+            "Name": "Estradiol",
+            "Initials": "E2",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "pg/mL",
+            "Childs": []
+        },
+        {
+            "Id": "6d083058-654f-441e-a404-89469e75d40c",
+            "Name": "Creatina Fosfoquinase Total",
+            "Initials": "CPK TOTAL",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "U/L",
+            "Childs": []
+        },
+        {
+            "Id": "f5bd08f5-cf2c-bad3-a0f6-9566421a7888",
+            "Name": "Vitamina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "55108cc8-ca02-4512-ae91-55b8ec73464c",
+                    "Name": "D",
+                    "Initials": "25-HIDROXI",
+                    "ParentId": "f5bd08f5-cf2c-bad3-a0f6-9566421a7888",
+                    "MeasureUnit": "ng/mL",
+                    "Childs": []
+                },
+                {
+                    "Id": "1a743c5f-d740-43e6-af8f-85f10da5b67a",
+                    "Name": "B12",
+                    "Initials": null,
+                    "ParentId": "f5bd08f5-cf2c-bad3-a0f6-9566421a7888",
+                    "MeasureUnit": "pg/mL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "Name": "Hormônio Tireoestimulante",
+            "Initials": "TSH",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "uUI/mL",
+            "Childs": []
+        },
+        {
+            "Id": "db7867bf-3ddc-4b87-91ac-a17ee487da43",
+            "Name": "Anti-Tireoglobulina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "UI/mL",
+            "Childs": []
+        },
+        {
+            "Id": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "Name": "Ácido Úrico",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "808c8e45-f1a9-2502-699f-c2522c8df9f4",
+            "Name": "Colesterol",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+                    "Name": "Total",
+                    "Initials": null,
+                    "ParentId": "808c8e45-f1a9-2502-699f-c2522c8df9f4",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "b4c59a0a-6b00-48b2-a0c6-9270feddf7b9",
+                    "Name": "HDL",
+                    "Initials": null,
+                    "ParentId": "808c8e45-f1a9-2502-699f-c2522c8df9f4",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "2db2a9c3-7436-45d3-a7fd-96039eb18261",
+                    "Name": "LDL",
+                    "Initials": null,
+                    "ParentId": "808c8e45-f1a9-2502-699f-c2522c8df9f4",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "665b5c9a-afb2-4510-bbda-e95cb2fcac91",
+                    "Name": "VLDL",
+                    "Initials": null,
+                    "ParentId": "808c8e45-f1a9-2502-699f-c2522c8df9f4",
+                    "MeasureUnit": "mg/dL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "Name": "Glicose",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "18638189-2adc-43ab-9738-c758555cb7b2",
+            "Name": "Hemoglobina",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "be846d3f-ff2a-4343-9376-52def11a5585",
+                    "Name": "Glicada",
+                    "Initials": "HbA1c",
+                    "ParentId": "18638189-2adc-43ab-9738-c758555cb7b2",
+                    "MeasureUnit": "%",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "Name": "Triglicérides",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "f38a20ba-24ec-4114-b499-cc78f5e3ba0f",
+            "Name": "Sódio",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mEq/L",
+            "Childs": []
+        },
+        {
+            "Id": "18400506-a06c-4bc4-8b4e-d1bdd18135a9",
+            "Name": "VDRL",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": []
+        },
+        {
+            "Id": "fe18b992-b31e-4c55-9340-d61eadb774da",
+            "Name": "Bicarbonato",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mEq/L",
+            "Childs": []
+        },
+        {
+            "Id": "e2ae8f77-b40c-486f-be17-e0a205f95454",
+            "Name": "Fósforo",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "6e2960ca-689d-634e-7ac0-e2f882df4707",
+            "Name": "Hepatite",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "aefc68c8-f6de-04a1-8646-dc80b870ffc5",
+                    "Name": "B",
+                    "Initials": null,
+                    "ParentId": "6e2960ca-689d-634e-7ac0-e2f882df4707",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "e3bba8a0-3f63-82d8-87b7-0a9a3377d9d1",
+                            "Name": "ANTI-HBc",
+                            "Initials": null,
+                            "ParentId": "aefc68c8-f6de-04a1-8646-dc80b870ffc5",
+                            "MeasureUnit": null,
+                            "Childs": [
+                                {
+                                    "Id": "655fb272-8a41-4807-a3e9-9ef26f49c9ca",
+                                    "Name": "Total",
+                                    "Initials": null,
+                                    "ParentId": "e3bba8a0-3f63-82d8-87b7-0a9a3377d9d1",
+                                    "MeasureUnit": null,
+                                    "Childs": []
+                                }
+                            ]
+                        },
+                        {
+                            "Id": "6b0273fa-c93a-4d21-8ea4-f645aaa4dff3",
+                            "Name": "Hbs Ag",
+                            "Initials": null,
+                            "ParentId": "aefc68c8-f6de-04a1-8646-dc80b870ffc5",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        }
+                    ]
+                },
+                {
+                    "Id": "41bdf79d-fe82-4320-72b1-feb227d1b06b",
+                    "Name": "C",
+                    "Initials": null,
+                    "ParentId": "6e2960ca-689d-634e-7ac0-e2f882df4707",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "dfef296d-b8f3-4f99-af53-ea10b31a62f7",
+                            "Name": "Anticorpos",
+                            "Initials": null,
+                            "ParentId": "41bdf79d-fe82-4320-72b1-feb227d1b06b",
+                            "MeasureUnit": "UI/mL",
+                            "Childs": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "696fd1d4-6834-472c-95d2-e64461f6e0b9",
+            "Name": "Uréia",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mg/dL",
+            "Childs": []
+        },
+        {
+            "Id": "75732542-0c71-dd3d-72fe-ec43f0686f24",
+            "Name": "Tiroxina",
+            "Initials": "T4",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "d487fdb8-0bcb-4167-8bf0-38c0b4c98f5b",
+                    "Name": "Total",
+                    "Initials": null,
+                    "ParentId": "75732542-0c71-dd3d-72fe-ec43f0686f24",
+                    "MeasureUnit": "ug/dL",
+                    "Childs": []
+                },
+                {
+                    "Id": "33289938-81b3-48b4-9a08-d38c87f9b8ec",
+                    "Name": "Livre",
+                    "Initials": "T4L",
+                    "ParentId": "75732542-0c71-dd3d-72fe-ec43f0686f24",
+                    "MeasureUnit": "ng/dL",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "a1e91c2d-55ce-4b3d-9dfa-f2cbe7d95c62",
+            "Name": "Hormônio Folículo Estimulante",
+            "Initials": "FSH",
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": "mUI/mL",
+            "Childs": []
+        },
+        {
+            "Id": "8e305c3f-f5c7-3cc2-4ae2-fc5769ac66d1",
+            "Name": "HIV",
+            "Initials": null,
+            "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "19a0f023-4bea-4651-ba4f-b195bba7f0ef",
+                    "Name": "Anticorpos",
+                    "Initials": null,
+                    "ParentId": "8e305c3f-f5c7-3cc2-4ae2-fc5769ac66d1",
+                    "MeasureUnit": null,
+                    "Childs": []
+                }
+            ]
+        }
+    ]
+}
