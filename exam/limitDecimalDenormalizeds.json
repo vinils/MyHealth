@@ -1,0 +1,2175 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#LimitDecimalDenormalizeds",
+    "value": [
+        {
+            "GroupId": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 39.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 39.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 17.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 59.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 19.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 57.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2286213b-931f-474b-8ae3-01ff9b86f76f",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 17.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 59.00,
+            "Color": null
+        },
+        {
+            "GroupId": "7a6aa588-2902-4b70-835e-045551209f0b",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.58,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.92,
+            "Color": null
+        },
+        {
+            "GroupId": "963d00dc-36ca-4fe1-ad9b-08c5ef8e4740",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": "Baixo",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 630.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "963d00dc-36ca-4fe1-ad9b-08c5ef8e4740",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 39.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 259.00,
+            "Color": null
+        },
+        {
+            "GroupId": "0f099b67-dcc0-47c7-92fa-15888233c52d",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 80.70,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 447.10,
+            "Color": null
+        },
+        {
+            "GroupId": "82582960-4073-4b58-af3e-15ff76c8a972",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 46.00,
+            "Color": null
+        },
+        {
+            "GroupId": "bd113da4-8223-4ff3-b830-17939a7403e5",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 500.00,
+            "Color": null
+        },
+        {
+            "GroupId": "bd113da4-8223-4ff3-b830-17939a7403e5",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "854629f7-bbfe-4d80-b5b4-189970203c75",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 0.90,
+            "Color": null
+        },
+        {
+            "GroupId": "5ea0ec36-16b9-48aa-985f-1a5243263473",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 15.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 170.00,
+            "Color": null
+        },
+        {
+            "GroupId": "5ea0ec36-16b9-48aa-985f-1a5243263473",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 15.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 73.00,
+            "Color": null
+        },
+        {
+            "GroupId": "5ea0ec36-16b9-48aa-985f-1a5243263473",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 15.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 73.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2137805a-850c-41c6-93bb-1adbd2fd0941",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": "Alto",
+            "MinType": "BiggerThan",
+            "Min": 1.81,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "2137805a-850c-41c6-93bb-1adbd2fd0941",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.60,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.81,
+            "Color": null
+        },
+        {
+            "GroupId": "2137805a-850c-41c6-93bb-1adbd2fd0941",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 60.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 215.00,
+            "Color": null
+        },
+        {
+            "GroupId": "f9d24149-da18-46dd-bd2f-206bc3709899",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 9.30,
+            "Color": null
+        },
+        {
+            "GroupId": "f9d24149-da18-46dd-bd2f-206bc3709899",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.70,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.60,
+            "Color": null
+        },
+        {
+            "GroupId": "9531dd00-5511-420a-8e70-208fd714a60e",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 14.50,
+            "Color": null
+        },
+        {
+            "GroupId": "0eef3b37-95d8-440a-abdf-2488e4bfcfc4",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.00,
+            "Color": null
+        },
+        {
+            "GroupId": "68ed3e7a-3884-47b7-ba5b-29b895ccb99a",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "68ed3e7a-3884-47b7-ba5b-29b895ccb99a",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1000.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 750.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 3000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3168.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1000.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 3200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6c8e0ddf-939c-463e-a00f-2a192a13b905",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1000.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "0ae0a1ff-cf13-4280-8d9e-2d7c958a1cc1",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": "Alto",
+            "MinType": "BiggerThan",
+            "Min": 0.20,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "03806a5f-9873-48ac-b34d-2daf29896783",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 5.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.00,
+            "Color": null
+        },
+        {
+            "GroupId": "03806a5f-9873-48ac-b34d-2daf29896783",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 5.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.00,
+            "Color": null
+        },
+        {
+            "GroupId": "03806a5f-9873-48ac-b34d-2daf29896783",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7.80,
+            "Color": null
+        },
+        {
+            "GroupId": "03806a5f-9873-48ac-b34d-2daf29896783",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7.80,
+            "Color": null
+        },
+        {
+            "GroupId": "9db1bd58-caae-431c-9a74-2dd477b360bb",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.10,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 17.70,
+            "Color": null
+        },
+        {
+            "GroupId": "9db1bd58-caae-431c-9a74-2dd477b360bb",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.60,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 21.40,
+            "Color": null
+        },
+        {
+            "GroupId": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 14.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 17.40,
+            "Color": null
+        },
+        {
+            "GroupId": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 13.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 18.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 13.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 18.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 13.20,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 18.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a6a726ac-60a5-4240-9aba-30e8b63a1860",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 14.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 17.40,
+            "Color": null
+        },
+        {
+            "GroupId": "2541573b-b5ea-4c6d-a66e-3140e80fa266",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.80,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 2.20,
+            "Color": null
+        },
+        {
+            "GroupId": "6af24d64-45ff-4aa1-81b6-34a027493925",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.30,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6af24d64-45ff-4aa1-81b6-34a027493925",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.32,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.66,
+            "Color": null
+        },
+        {
+            "GroupId": "6af24d64-45ff-4aa1-81b6-34a027493925",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.30,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6.00,
+            "Color": null
+        },
+        {
+            "GroupId": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": "Alto",
+            "MinType": "BiggerThan",
+            "Min": 39.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 8.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 39.00,
+            "Color": null
+        },
+        {
+            "GroupId": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 72.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 72.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "7d338942-dd65-4dbd-9cb5-38a58547f15e",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 72.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "d487fdb8-0bcb-4167-8bf0-38c0b4c98f5b",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 6.09,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 12.23,
+            "Color": null
+        },
+        {
+            "GroupId": "d487fdb8-0bcb-4167-8bf0-38c0b4c98f5b",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 6.09,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 12.23,
+            "Color": null
+        },
+        {
+            "GroupId": "d487fdb8-0bcb-4167-8bf0-38c0b4c98f5b",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.80,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 13.70,
+            "Color": null
+        },
+        {
+            "GroupId": "682f6adb-caeb-4bb6-b33d-38f0dd2b2916",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "682f6adb-caeb-4bb6-b33d-38f0dd2b2916",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "682f6adb-caeb-4bb6-b33d-38f0dd2b2916",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 25000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "682f6adb-caeb-4bb6-b33d-38f0dd2b2916",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 25000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "60f2c989-f977-4bc0-a14c-4718343f6a8e",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 9.80,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 12.60,
+            "Color": null
+        },
+        {
+            "GroupId": "c8e4e5b1-320b-43db-9460-4dbb741eaa73",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1010.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1025.00,
+            "Color": null
+        },
+        {
+            "GroupId": "c8e4e5b1-320b-43db-9460-4dbb741eaa73",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1010.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1025.00,
+            "Color": null
+        },
+        {
+            "GroupId": "c8e4e5b1-320b-43db-9460-4dbb741eaa73",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1015.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1025.00,
+            "Color": null
+        },
+        {
+            "GroupId": "c8e4e5b1-320b-43db-9460-4dbb741eaa73",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1015.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1025.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b51f1568-3956-4bf0-93d2-4e2635ca6f0f",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 8.60,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10.60,
+            "Color": null
+        },
+        {
+            "GroupId": "b51f1568-3956-4bf0-93d2-4e2635ca6f0f",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 8.40,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10.20,
+            "Color": null
+        },
+        {
+            "GroupId": "b51f1568-3956-4bf0-93d2-4e2635ca6f0f",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 8.40,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10.20,
+            "Color": null
+        },
+        {
+            "GroupId": "b51f1568-3956-4bf0-93d2-4e2635ca6f0f",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 8.40,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 10.20,
+            "Color": null
+        },
+        {
+            "GroupId": "3c9d5d18-9360-4515-ad0b-4e52edc3c452",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.10,
+            "Color": null
+        },
+        {
+            "GroupId": "3c9d5d18-9360-4515-ad0b-4e52edc3c452",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.00,
+            "Color": null
+        },
+        {
+            "GroupId": "3c9d5d18-9360-4515-ad0b-4e52edc3c452",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.10,
+            "Color": null
+        },
+        {
+            "GroupId": "3c9d5d18-9360-4515-ad0b-4e52edc3c452",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.10,
+            "Color": null
+        },
+        {
+            "GroupId": "8843bd78-486a-4657-80a4-51d819af1c0b",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 7.10,
+            "Color": null
+        },
+        {
+            "GroupId": "8843bd78-486a-4657-80a4-51d819af1c0b",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 7.10,
+            "Color": null
+        },
+        {
+            "GroupId": "be846d3f-ff2a-4343-9376-52def11a5585",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 5.70,
+            "Color": null
+        },
+        {
+            "GroupId": "be846d3f-ff2a-4343-9376-52def11a5585",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 5.70,
+            "Color": null
+        },
+        {
+            "GroupId": "55108cc8-ca02-4512-ae91-55b8ec73464c",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Insuficiência",
+            "MinType": "BiggerThan",
+            "Min": 20.00,
+            "MaxType": "SmallThan",
+            "Max": 30.00,
+            "Color": 16776960
+        },
+        {
+            "GroupId": "55108cc8-ca02-4512-ae91-55b8ec73464c",
+            "CollectionDate": "2017-03-06T09:09:07-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 30.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 100.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 100.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 600.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 30.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 460.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b190357a-6dc4-4c0a-8f61-5638148f9811",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 100.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 600.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6ab148c4-68ec-4ff5-bc57-5b366b24b409",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": "Baixo",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 21.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 27.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 33.00,
+            "Color": null
+        },
+        {
+            "GroupId": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 27.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 33.00,
+            "Color": null
+        },
+        {
+            "GroupId": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 27.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 33.00,
+            "Color": null
+        },
+        {
+            "GroupId": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 27.30,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 32.60,
+            "Color": null
+        },
+        {
+            "GroupId": "9fa0abdc-df0f-4d12-9a3a-5b3f3992de72",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 27.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 33.00,
+            "Color": null
+        },
+        {
+            "GroupId": "e57346cf-4893-4951-a9fb-601550aa0610",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 38.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 126.00,
+            "Color": null
+        },
+        {
+            "GroupId": "e957764e-c79f-40ae-8fb3-62ffa2cc1d81",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.80,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 2.60,
+            "Color": null
+        },
+        {
+            "GroupId": "e957764e-c79f-40ae-8fb3-62ffa2cc1d81",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.60,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 2.30,
+            "Color": null
+        },
+        {
+            "GroupId": "53d1ea73-4a5b-485f-a131-633b48d85d37",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.22,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.41,
+            "Color": null
+        },
+        {
+            "GroupId": "4a585360-ac4d-4f7b-aea9-67dce6cf4a84",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.28,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.22,
+            "Color": null
+        },
+        {
+            "GroupId": "616c15ca-e3df-4f43-938c-688a1006ee30",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "BiggerThan",
+            "Min": 5.38,
+            "MaxType": null,
+            "Max": null,
+            "Color": null
+        },
+        {
+            "GroupId": "028689ae-718e-4753-be9b-6bb7100457c1",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.80,
+            "Color": null
+        },
+        {
+            "GroupId": "fd8a3c57-1c37-47dc-881b-6c53a727df98",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "fd8a3c57-1c37-47dc-881b-6c53a727df98",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "fd8a3c57-1c37-47dc-881b-6c53a727df98",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "fd8a3c57-1c37-47dc-881b-6c53a727df98",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 20.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 90.00,
+            "Color": null
+        },
+        {
+            "GroupId": "605b59fb-73ad-4445-826e-6c801e0e1cff",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 15.00,
+            "Color": null
+        },
+        {
+            "GroupId": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.10,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.70,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.30,
+            "Color": null
+        },
+        {
+            "GroupId": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.66,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.25,
+            "Color": null
+        },
+        {
+            "GroupId": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.66,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.25,
+            "Color": null
+        },
+        {
+            "GroupId": "71a9e7bb-8ea8-4194-9756-6d8f3cfdd5a3",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.80,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.50,
+            "Color": null
+        },
+        {
+            "GroupId": "83b5d249-90e7-4cce-8554-6e0400c7096a",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 30.00,
+            "Color": null
+        },
+        {
+            "GroupId": "3f17328b-90a2-4b59-9d4b-79a17b13246c",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b647f8cf-7e20-4e6b-a636-81249f461c4c",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 20.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 150.00,
+            "Color": null
+        },
+        {
+            "GroupId": "ef5d7f1d-15c9-48bd-b5e4-831b814d2cc2",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 39.80,
+            "Color": null
+        },
+        {
+            "GroupId": "1a743c5f-d740-43e6-af8f-85f10da5b67a",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 150.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "1a743c5f-d740-43e6-af8f-85f10da5b67a",
+            "CollectionDate": "2017-03-06T09:09:07-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 191.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 663.00,
+            "Color": null
+        },
+        {
+            "GroupId": "6d083058-654f-441e-a404-89469e75d40c",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 170.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "6d083058-654f-441e-a404-89469e75d40c",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 55.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 70.00,
+            "Color": null
+        },
+        {
+            "GroupId": "87545a18-9e16-403f-99b5-89750be868f8",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.01,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.78,
+            "Color": null
+        },
+        {
+            "GroupId": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Moderado",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 200.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 239.00,
+            "Color": 16776960
+        },
+        {
+            "GroupId": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "cb2f2ddc-a87a-4e3f-bc2a-8a6ef78d0c15",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "8dd6bef8-d019-4981-8608-8afff0e1f294",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "8dd6bef8-d019-4981-8608-8afff0e1f294",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 20000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "8dd6bef8-d019-4981-8608-8afff0e1f294",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 7100.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b4c59a0a-6b00-48b2-a0c6-9270feddf7b9",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 40.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 60.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b4c59a0a-6b00-48b2-a0c6-9270feddf7b9",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 40.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 60.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b4c59a0a-6b00-48b2-a0c6-9270feddf7b9",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "BiggerThan",
+            "Min": 40.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": null
+        },
+        {
+            "GroupId": "b4c59a0a-6b00-48b2-a0c6-9270feddf7b9",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "BiggerThan",
+            "Min": 40.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": null
+        },
+        {
+            "GroupId": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 32.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 36.00,
+            "Color": null
+        },
+        {
+            "GroupId": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 32.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 37.00,
+            "Color": null
+        },
+        {
+            "GroupId": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 32.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 37.00,
+            "Color": null
+        },
+        {
+            "GroupId": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 32.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 36.00,
+            "Color": null
+        },
+        {
+            "GroupId": "86548d2c-9773-4fb1-921c-9546f18e19c6",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 32.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 36.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2db2a9c3-7436-45d3-a7fd-96039eb18261",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 100.00,
+            "Color": null
+        },
+        {
+            "GroupId": "2db2a9c3-7436-45d3-a7fd-96039eb18261",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Desejavel",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 100.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 129.00,
+            "Color": 16776960
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.35,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.50,
+            "Color": null
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.34,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.60,
+            "Color": null
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.34,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 5.60,
+            "Color": null
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2017-03-06T09:09:07-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.51,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.30,
+            "Color": null
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.74,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.30,
+            "Color": null
+        },
+        {
+            "GroupId": "773ae57e-8c07-43cd-8a1d-9993eedc247d",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.51,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.30,
+            "Color": null
+        },
+        {
+            "GroupId": "655fb272-8a41-4807-a3e9-9ef26f49c9ca",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 1.00,
+            "Color": null
+        },
+        {
+            "GroupId": "db7867bf-3ddc-4b87-91ac-a17ee487da43",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 115.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b149446a-5a95-4362-b7c9-af3e6f4be7a3",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": "Baixo",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 97.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "f7c99fb1-f225-416f-90bf-b039fd295477",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 241.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 827.00,
+            "Color": null
+        },
+        {
+            "GroupId": "f7c99fb1-f225-416f-90bf-b039fd295477",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 241.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 827.00,
+            "Color": null
+        },
+        {
+            "GroupId": "f7c99fb1-f225-416f-90bf-b039fd295477",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 280.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 800.00,
+            "Color": null
+        },
+        {
+            "GroupId": "3a9237d1-a895-431d-b5ac-b2fd6b86014c",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 20.00,
+            "Color": null
+        },
+        {
+            "GroupId": "3a9237d1-a895-431d-b5ac-b2fd6b86014c",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 20.00,
+            "Color": null
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7.00,
+            "Color": null
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.70,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 9.20,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7.20,
+            "Color": null
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.50,
+            "Color": null
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.50,
+            "Color": null
+        },
+        {
+            "GroupId": "47ccf7b8-15f2-4b0c-8635-b4ae88271675",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 8.50,
+            "Color": null
+        },
+        {
+            "GroupId": "42d689d0-f48a-490b-9e52-bcc361fef109",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 100.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 800.00,
+            "Color": null
+        },
+        {
+            "GroupId": "42d689d0-f48a-490b-9e52-bcc361fef109",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 200.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1200.00,
+            "Color": null
+        },
+        {
+            "GroupId": "42d689d0-f48a-490b-9e52-bcc361fef109",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 200.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 726.00,
+            "Color": null
+        },
+        {
+            "GroupId": "42d689d0-f48a-490b-9e52-bcc361fef109",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 600.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "42d689d0-f48a-490b-9e52-bcc361fef109",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 100.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 800.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 150.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 450.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 150.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 450.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 150.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 140.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 400.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a23efac1-ccb0-4bd3-b457-c23db1673333",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 150.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 450.00,
+            "Color": null
+        },
+        {
+            "GroupId": "050f83a9-1273-4235-a54e-c3a723667678",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.36,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.52,
+            "Color": null
+        },
+        {
+            "GroupId": "63a13a0c-a8de-4e44-8ab6-c5a02c1fa9f6",
+            "CollectionDate": "2016-10-11T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.40,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.40,
+            "Color": null
+        },
+        {
+            "GroupId": "198b50de-16f8-49cf-961e-c60d6bea8455",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 80.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 98.00,
+            "Color": null
+        },
+        {
+            "GroupId": "198b50de-16f8-49cf-961e-c60d6bea8455",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 82.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 94.00,
+            "Color": null
+        },
+        {
+            "GroupId": "198b50de-16f8-49cf-961e-c60d6bea8455",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 82.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 94.00,
+            "Color": null
+        },
+        {
+            "GroupId": "198b50de-16f8-49cf-961e-c60d6bea8455",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 80.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "198b50de-16f8-49cf-961e-c60d6bea8455",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 80.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 98.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 60.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 60.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 60.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 70.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "b3176656-bf49-46ab-be85-c646e41eab49",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 70.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 99.00,
+            "Color": null
+        },
+        {
+            "GroupId": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 150.00,
+            "Color": null
+        },
+        {
+            "GroupId": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 150.00,
+            "Color": null
+        },
+        {
+            "GroupId": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Elevado",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 200.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 499.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 150.00,
+            "Color": null
+        },
+        {
+            "GroupId": "be3ce745-fcd7-4f1c-8554-c94e631fafd7",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "BiggerThan",
+            "Min": 150.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": null
+        },
+        {
+            "GroupId": "f38a20ba-24ec-4114-b499-cc78f5e3ba0f",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 146.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "f38a20ba-24ec-4114-b499-cc78f5e3ba0f",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 135.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 145.00,
+            "Color": null
+        },
+        {
+            "GroupId": "f38a20ba-24ec-4114-b499-cc78f5e3ba0f",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 137.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 145.00,
+            "Color": null
+        },
+        {
+            "GroupId": "01d32589-29cb-4d73-9d89-cfbcb28bc04c",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.40,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 24.60,
+            "Color": null
+        },
+        {
+            "GroupId": "01d32589-29cb-4d73-9d89-cfbcb28bc04c",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 3.17,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 19.04,
+            "Color": null
+        },
+        {
+            "GroupId": "18400506-a06c-4bc4-8b4e-d1bdd18135a9",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 0.90,
+            "Color": null
+        },
+        {
+            "GroupId": "33289938-81b3-48b4-9a08-d38c87f9b8ec",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.89,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.76,
+            "Color": null
+        },
+        {
+            "GroupId": "33289938-81b3-48b4-9a08-d38c87f9b8ec",
+            "CollectionDate": "2017-03-06T09:09:07-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.93,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.70,
+            "Color": null
+        },
+        {
+            "GroupId": "33289938-81b3-48b4-9a08-d38c87f9b8ec",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.70,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.80,
+            "Color": null
+        },
+        {
+            "GroupId": "33289938-81b3-48b4-9a08-d38c87f9b8ec",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.93,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.70,
+            "Color": null
+        },
+        {
+            "GroupId": "fe18b992-b31e-4c55-9340-d61eadb774da",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 22.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 30.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2000.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2750.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6900.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Baixo",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 2750.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1700.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6100.00,
+            "Color": null
+        },
+        {
+            "GroupId": "a4e74704-e86a-4687-91a1-dd65716d1e66",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2000.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 7000.00,
+            "Color": null
+        },
+        {
+            "GroupId": "e2ae8f77-b40c-486f-be17-e0a205f95454",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.50,
+            "Color": null
+        },
+        {
+            "GroupId": "e2ae8f77-b40c-486f-be17-e0a205f95454",
+            "CollectionDate": "2017-04-10T09:07:53-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.50,
+            "Color": null
+        },
+        {
+            "GroupId": "e2ae8f77-b40c-486f-be17-e0a205f95454",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 2.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 4.50,
+            "Color": null
+        },
+        {
+            "GroupId": "696fd1d4-6834-472c-95d2-e64461f6e0b9",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 45.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "696fd1d4-6834-472c-95d2-e64461f6e0b9",
+            "CollectionDate": "2016-10-10T07:14:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 17.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 49.00,
+            "Color": null
+        },
+        {
+            "GroupId": "696fd1d4-6834-472c-95d2-e64461f6e0b9",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 19.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 43.00,
+            "Color": null
+        },
+        {
+            "GroupId": "696fd1d4-6834-472c-95d2-e64461f6e0b9",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": "Alto",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 43.00,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "665b5c9a-afb2-4510-bbda-e95cb2fcac91",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 40.00,
+            "Color": null
+        },
+        {
+            "GroupId": "665b5c9a-afb2-4510-bbda-e95cb2fcac91",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": "Alto",
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 45.00,
+            "MaxType": null,
+            "Max": null,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "dfef296d-b8f3-4f99-af53-ea10b31a62f7",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.80,
+            "Color": null
+        },
+        {
+            "GroupId": "a1e91c2d-55ce-4b3d-9dfa-f2cbe7d95c62",
+            "CollectionDate": "2017-10-20T00:00:00-02:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 1.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 12.40,
+            "Color": null
+        },
+        {
+            "GroupId": "3c45c2fa-abba-4da8-b1ee-f4184369a9e7",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 0.75,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 1.32,
+            "Color": null
+        },
+        {
+            "GroupId": "6b0273fa-c93a-4d21-8ea4-f645aaa4dff3",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallThan",
+            "Max": 1.00,
+            "Color": null
+        },
+        {
+            "GroupId": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+            "CollectionDate": "2012-06-27T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 14.50,
+            "Color": null
+        },
+        {
+            "GroupId": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 16.50,
+            "Color": null
+        },
+        {
+            "GroupId": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.00,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 16.50,
+            "Color": null
+        },
+        {
+            "GroupId": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+            "CollectionDate": "2017-03-06T09:07:30-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 9.90,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 15.50,
+            "Color": null
+        },
+        {
+            "GroupId": "0418b601-86ed-478e-b9c9-fa73b8454fb8",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 11.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 14.50,
+            "Color": null
+        },
+        {
+            "GroupId": "160f3b6e-e755-4dcd-9693-fbdfa0d78bca",
+            "CollectionDate": "2017-09-28T15:25:00-03:00",
+            "Name": "Baixo",
+            "MinType": null,
+            "Min": null,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 0.22,
+            "Color": 16711680
+        },
+        {
+            "GroupId": "58f93df0-e274-44d5-9f81-fd8b86efea5f",
+            "CollectionDate": "2014-07-29T00:00:00-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6.50,
+            "Color": null
+        },
+        {
+            "GroupId": "58f93df0-e274-44d5-9f81-fd8b86efea5f",
+            "CollectionDate": "2016-08-09T19:46:01-03:00",
+            "Name": null,
+            "MinType": "EqualsOrBiggerThan",
+            "Min": 4.50,
+            "MaxType": "SmallOrEqualsThan",
+            "Max": 6.50,
+            "Color": null
+        }
+    ]
+}
