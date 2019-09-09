@@ -1,0 +1,18 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "Id": "3a6efe92-00a4-4b1b-bc40-c5b2c83cf0c1",
+    "Name": "Cardio",
+    "Initials": null,
+    "ParentId": "47b974f0-00cc-415b-af2a-93f010491212",
+    "MeasureUnit": null,
+    "Childs": [
+        {
+            "Id": "c0efe267-e8ed-4b79-a125-db15abc0780d",
+            "Name": "Frequência",
+            "Initials": null,
+            "ParentId": "3a6efe92-00a4-4b1b-bc40-c5b2c83cf0c1",
+            "MeasureUnit": "BPM",
+            "Childs": []
+        }
+    ]
+}
