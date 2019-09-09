@@ -1,0 +1,147 @@
+{
+    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "Id": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+    "Name": "Físico",
+    "Initials": null,
+    "ParentId": "47b974f0-00cc-415b-af2a-93f010491212",
+    "MeasureUnit": null,
+    "Childs": [
+        {
+            "Id": "53d1f102-83e4-44e7-a958-00e0305d7878",
+            "Name": "Abdomen",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "92e6cab8-570b-49e4-8eed-210ea4aa47cf",
+            "Name": "Braço direito",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "d98db4b6-99a4-4bc2-8fdd-3d0c0f03d783",
+            "Name": "Antebraço direito",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "42a39668-8556-407f-853b-50d6b570043b",
+            "Name": "Tórax",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "95f5a9cb-c731-429d-bd95-57eeced21ef1",
+            "Name": "Peso",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": null,
+            "Childs": [
+                {
+                    "Id": "79d91946-706e-4856-9817-54ab1b0d92f3",
+                    "Name": "Gordo",
+                    "Initials": null,
+                    "ParentId": "95f5a9cb-c731-429d-bd95-57eeced21ef1",
+                    "MeasureUnit": "kg",
+                    "Childs": []
+                },
+                {
+                    "Id": "756b8511-0584-4a74-adae-dcef307f6d94",
+                    "Name": "Magro",
+                    "Initials": null,
+                    "ParentId": "95f5a9cb-c731-429d-bd95-57eeced21ef1",
+                    "MeasureUnit": "kg",
+                    "Childs": []
+                }
+            ]
+        },
+        {
+            "Id": "b09f8c25-4fbe-4958-ac2a-6e3e975db4d8",
+            "Name": "Antebraço esquerdo",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "aea37732-4efb-42b3-bc7d-813014a6038d",
+            "Name": "Agua Corporal",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "363425a9-bddc-4144-8106-94b302e660a3",
+            "Name": "Coxa direita",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "b68c2344-97c7-4623-b988-acfb1e493eaa",
+            "Name": "Cintura",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "284dd61e-db7f-4613-a2a7-b0303bc96368",
+            "Name": "Altura",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "c08804ca-ca2f-4766-a4a6-bd16b435d6e4",
+            "Name": "Braço esquerdo",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "6e0f569e-d32d-49dc-b748-cae562395eea",
+            "Name": "Coxa esquerda",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "8430ab70-181f-4ac0-a674-d545363ab3d9",
+            "Name": "Panturrilha direita",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "922f8296-27b9-4b32-948b-dcfc6d9b6549",
+            "Name": "Panturrilha esquerda",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        },
+        {
+            "Id": "efdbc084-e3ff-428a-b892-f186d9eba293",
+            "Name": "Quadril",
+            "Initials": null,
+            "ParentId": "ba70277a-2fdf-4b3f-b2ac-1521c4beb48d",
+            "MeasureUnit": "cm",
+            "Childs": []
+        }
+    ]
+}
