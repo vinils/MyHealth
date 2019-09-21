@@ -1,1 +1,1 @@
-http://w19docker6:8002/odata/v4/Groups(BA70277A-2FDF-4B3F-B2AC-1521C4BEB48D)?$Expand=Childs($levels=10)
+http://w19docker6:8002/odata/v4/Groups(47B974F0-00CC-415B-AF2A-93F010491212)?$Expand=Childs($levels=10)
