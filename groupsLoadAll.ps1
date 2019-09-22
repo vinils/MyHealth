@@ -1,3 +1,4 @@
+#URI="w19docker6:8002"
 .\groupsLoad.ps1
 .\exam\groupsLoad.ps1
 .\heartRate\groupsLoad.ps1
