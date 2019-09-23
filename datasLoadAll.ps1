@@ -6,7 +6,6 @@ cmd.exe /c "set SQL_SERVER=$SQL_SERVER && set SQL_USER=$SQL_USER && set SQL_PASS
 cd .\..\..\
 #$USI="w19docker6:8002"
 .\exam\datasLoad.ps1
-.\heartRate\datasLoad.ps1
 .\physic\datasLoad.ps1
 .\sleep\datasLoad.ps1
 .\weight\datasLoad.ps1
