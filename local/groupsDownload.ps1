@@ -1,0 +1,1 @@
+http://w19docker4:8002/odata/v4/Groups(4665DB6B-38B5-4F19-9833-A8AD61DB1587)?$Expand=Childs($levels=10)
