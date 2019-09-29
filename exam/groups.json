@@ -1,5 +1,5 @@
 {
-    "@odata.context": "http://w19docker6/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
+    "@odata.context": "http://w19docker4/odata/v4/$metadata#Groups(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs(Childs()))))))))))/$entity",
     "Id": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
     "Name": "Exames",
     "Initials": null,
@@ -135,6 +135,14 @@
                     "Childs": []
                 },
                 {
+                    "Id": "dc7c4cd9-5ad6-40e1-8c40-dd9f6853b5eb",
+                    "Name": "Proteina C Reativa",
+                    "Initials": null,
+                    "ParentId": "e9285e55-769d-4eb6-8c57-3eeb940a3cfa",
+                    "MeasureUnit": null,
+                    "Childs": []
+                },
+                {
                     "Id": "3c45c2fa-abba-4da8-b1ee-f4184369a9e7",
                     "Name": "Gama Globulina",
                     "Initials": null,
@@ -159,6 +167,23 @@
             "ParentId": "98b34f14-6daa-3ee4-4eb1-e6d4f691960e",
             "MeasureUnit": null,
             "Childs": [
+                {
+                    "Id": "e4ff908f-7d82-4789-bbca-119e445f977e",
+                    "Name": "Urocultura",
+                    "Initials": null,
+                    "ParentId": "eb493c1c-8805-498e-bfdc-46948d734ba9",
+                    "MeasureUnit": null,
+                    "Childs": [
+                        {
+                            "Id": "e3ab76a6-e58e-4b7a-aff9-99cf865cb88e",
+                            "Name": "Bactéria Isolada",
+                            "Initials": null,
+                            "ParentId": "e4ff908f-7d82-4789-bbca-119e445f977e",
+                            "MeasureUnit": null,
+                            "Childs": []
+                        }
+                    ]
+                },
                 {
                     "Id": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
                     "Name": "Urina 24 horas",
@@ -196,6 +221,14 @@
                             "Initials": null,
                             "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
                             "MeasureUnit": "mL/min/1,73 m²",
+                            "Childs": []
+                        },
+                        {
+                            "Id": "0e4d58e7-5c3f-4852-949c-be25a7ad7a1a",
+                            "Name": "Volume",
+                            "Initials": null,
+                            "ParentId": "4d40c36b-6d96-45a9-aa02-9ad9251b0c92",
+                            "MeasureUnit": "mL/dia",
                             "Childs": []
                         },
                         {
@@ -700,7 +733,7 @@
                         },
                         {
                             "Id": "88589e6b-8930-4fb3-af0c-87c0bba78754",
-                            "Name": "Bacterias",
+                            "Name": "Bactérias",
                             "Initials": null,
                             "ParentId": "c7636ac9-3ecf-810e-f099-79081b652ba8",
                             "MeasureUnit": null,
@@ -918,6 +951,14 @@
                     "Initials": "HbA1c",
                     "ParentId": "18638189-2adc-43ab-9738-c758555cb7b2",
                     "MeasureUnit": "%",
+                    "Childs": []
+                },
+                {
+                    "Id": "46916ffe-02c7-4444-91df-9a971f87c301",
+                    "Name": "Glicemia Média Estimada",
+                    "Initials": null,
+                    "ParentId": "18638189-2adc-43ab-9738-c758555cb7b2",
+                    "MeasureUnit": "mg/dL",
                     "Childs": []
                 }
             ]
