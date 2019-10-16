@@ -2,34 +2,39 @@
 ::set SQL_USER=sa
 ::set SQL_PASSWORD=P@ssword
 
-::cd exam
-::datasDownload.bat
-::notepad datas.sql
-::cd ..
-
-cd heartRate
-::datasDownload.bat
-::notepad datas.sql
-::cd datas
-::del datas*.sql
-::splitter.bat
-::cd ..
-del datas.sql
-cd..
+cd exam
+START /wait datasDownload.bat
+cd ..
 
 cd local
-datasDownload.bat
+START /wait datasDownload.bat
 cd ..
 
 cd physic
-datasDownload.bat
+START /wait datasDownload.bat
 cd ..
 
 cd sleep
-datasDownload.bat
+START /wait datasDownload.bat
 cd ..
 
 cd weight
-datasDownload.bat
+START /wait datasDownload.bat
 cd ..
+
+notepad exam\datas.sql
+notepad local\datas.sql
+notepad physic\datas.sql
+notepad sleep\datas.sql
+notepad weight\datas.sql
+
+cd heartRate
+START /wait datasDownload.bat
+notepad datas.sql
+cd datas
+del datas*.sql
+splitter.bat
+cd ..
+del datas.sql
+cd..
 
