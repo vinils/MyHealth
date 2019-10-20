@@ -33,7 +33,7 @@ START /wait datasDownload.bat
 notepad datas.sql
 cd datas
 del datas*.sql
-splitter.bat
+START /wait splitter.bat
 cd ..
 del datas.sql
 cd..
