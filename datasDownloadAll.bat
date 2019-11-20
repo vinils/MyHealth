@@ -22,15 +22,18 @@ cd weight
 START /wait datasDownload.bat
 cd ..
 
+cd heartRate
+START /wait datasDownload.bat
+cd ..
+
 notepad exam\datas.sql
 notepad local\datas.sql
 notepad physic\datas.sql
 notepad sleep\datas.sql
 notepad weight\datas.sql
+notepad heartRate\datas.sql
 
 cd heartRate
-START /wait datasDownload.bat
-notepad datas.sql
 cd datas
 del datas*.sql
 START /wait splitter.bat
