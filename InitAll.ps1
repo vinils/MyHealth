@@ -10,10 +10,6 @@ cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWO
 cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWORD=$SQL_PASSWORD & limitDecimalDenormalizedsLoad.bat"
 cd ..
 
-cd .\heartRate\datas
-cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWORD=$SQL_PASSWORD & datasLoad.bat"
-cd ..\..
-
 cd .\local
 cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWORD=$SQL_PASSWORD & datasLoad.bat"
 cd ..
@@ -29,3 +25,8 @@ cd ..
 cd .\weight
 cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWORD=$SQL_PASSWORD & datasLoad.bat"
 cd ..
+
+cd .\heartRate\datas
+cmd.exe /c "set SQL_SERVER=$SQL_SERVER & set SQL_USER=$SQL_USER & set SQL_PASSWORD=$SQL_PASSWORD & datasLoad.bat"
+cd ..\..
+
