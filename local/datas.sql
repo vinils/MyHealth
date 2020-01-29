@@ -1,1 +1,2 @@
 INSERT INTO [DATA] (GroupId, CollectionDate, DecimalValue, StringValue, Discriminator) VALUES ('4665DB6B-38B5-4F19-9833-A8AD61DB1587', '2020-01-13 01:32:29', NULL, '{"longitude":-46.7789287,"altitude":0,"latitude":-23.5506747,"accuracy":15.12600040435791,"
+INSERT INTO [DATA] (GroupId, CollectionDate, DecimalValue, StringValue, Discriminator) VALUES ('4665DB6B-38B5-4F19-9833-A8AD61DB1587', '2020-01-20 11:39:54', NULL, '{"longitude":-46.6725731,"altitude":783.0999755859375,"latitude":-23.5596423,"accuracy":15.
