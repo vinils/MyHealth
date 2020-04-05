@@ -19,6 +19,9 @@ docker-machine ssh dckmyhealth1 sudo chown -R docker ~/sqlbkp
 z:
 cd "z:\DADOS\BackUp\SQL Backup"
 docker-machine scp DataContext_latest.bak dckMyHealth1:~/sqlbkp
+c:
+cd "c:\linuxmyhealthservice"
+docker-machine scp backup.sh dckMyHealth1:~/sqlbkp
 
 
 
