@@ -22,6 +22,7 @@ docker-machine scp DataContext_latest.bak dckMyHealth1:~/sqlbkp
 c:
 cd "c:\linuxmyhealthservice"
 docker-machine scp backup.sh dckMyHealth1:~/sqlbkp
+docker-machine ssh dckmyhealth1 sudo chmod +x ~/sqlbkp/backup.sh
 
 
 
